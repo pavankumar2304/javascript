@@ -24,3 +24,5 @@ Remote: Create a pull request for ‘new_branch’ on GitHub by visiting:
 Remote:   https://github.com/example/Demo/pull/new/new_branch
 Remote: 
  * [new branch]  	new_branch -> new_branch
+ code changes
+ 
